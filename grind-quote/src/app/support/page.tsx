@@ -48,17 +48,6 @@ export default function Support() {
           Long press on your home screen, tap the + button in the top left corner, 
           search for &quot;Grind Quotes&quot;, and select your preferred widget size.
         </p>
-
-        <h3>Does the app require an internet connection?</h3>
-        <p>
-          No, the app works completely offline. All quotes are stored locally on your device.
-        </p>
-
-        <h3>How do I change the quote displayed?</h3>
-        <p>
-          The widget automatically refreshes with new quotes throughout the day. 
-          You can also open the app to manually refresh the quote.
-        </p>
       </main>
 
       <footer className="footer">
